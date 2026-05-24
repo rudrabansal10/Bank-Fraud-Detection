@@ -74,7 +74,7 @@ def clean_dataset(df):
     return df_clean
 
 
-# # ----------- USAGE -----------
+# # ----------- DURING TRAINING PHASE -----------
 # df_dirty = pd.read_csv("raw_train_data.csv")
 
 # df_clean = clean_dataset(df_dirty)
